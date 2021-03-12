@@ -30,7 +30,7 @@ If you have difficulty, focus on your strengths. If your frontend chops are wher
 
 ## Your presentation:
 
-We expect candidates to spend 4-8 hoours on this exercise. You are welcome to spend less or more depending on what you feel is viable for the sake of the demo as outlined above. 
+We expect candidates to spend 4-8 hours on this exercise. You are welcome to spend less or more depending on what you feel is viable for the sake of the demo as outlined above. 
 
 You'll be meeting with our internal team to showcase how you've solved this problem. You'll start by reviewing it with a team of developers, then we'll invite other members of the team (project managers, designers, etc) to see your approach. You should be prepared to:
 
